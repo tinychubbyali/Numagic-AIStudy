@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T02:43:57.575Z",
+ "updatedAt": "2026-11-22T02:43:37.493Z",
  "weeks": [
   "2025-11-10",
   "2025-11-17",
@@ -56,7 +56,7 @@
   "2026-11-09",
   "2026-11-16"
  ],
- "partialLast": true,
+ "partialLast": false,
  "backfill": {
   "text": null,
   "mm": null
