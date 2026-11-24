@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T10:30:21.710Z",
+ "updatedAt": "2026-11-24T12:13:23.017Z",
  "source": "https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json",
  "notes": {
   "music": {
@@ -2905,9 +2905,65 @@
     }
    ],
    "removed": "2026-11-08"
+  },
+  "minimax/MiniMax-H3-Image": {
+   "modality": "image",
+   "vendor": "minimax",
+   "model": "MiniMax-H3-Image",
+   "native": {
+    "perImageToken": 0.0000038
+   },
+   "std": 0.015808,
+   "estimate": true,
+   "tier": "flagship",
+   "source": "https://platform.minimax.io/docs/guides/image-generation",
+   "firstSeen": "2026-11-24",
+   "history": [
+    {
+     "date": "2026-11-24",
+     "std": 0.015808,
+     "native": {
+      "perImageToken": 0.0000038
+     }
+    }
+   ]
+  },
+  "minimax/MiniMax-H3-Image-Highspeed": {
+   "modality": "image",
+   "vendor": "minimax",
+   "model": "MiniMax-H3-Image-Highspeed",
+   "native": {
+    "perImageToken": 0.0000076
+   },
+   "std": 0.031616,
+   "estimate": true,
+   "tier": "flagship",
+   "source": "https://platform.minimax.io/docs/guides/image-generation",
+   "firstSeen": "2026-11-24",
+   "history": [
+    {
+     "date": "2026-11-24",
+     "std": 0.031616,
+     "native": {
+      "perImageToken": 0.0000076
+     }
+    }
+   ]
   }
  },
  "changes": [
+  {
+   "date": "2026-11-24",
+   "id": "minimax/MiniMax-H3-Image",
+   "type": "added",
+   "after": 0.015808
+  },
+  {
+   "date": "2026-11-24",
+   "id": "minimax/MiniMax-H3-Image-Highspeed",
+   "type": "added",
+   "after": 0.031616
+  },
   {
    "date": "2026-11-15",
    "id": "xai/grok-imagine-image-quality",

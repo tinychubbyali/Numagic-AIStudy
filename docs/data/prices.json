@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-23T10:30:05.488Z",
+ "updatedAt": "2026-11-24T12:13:07.970Z",
  "source": "https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json",
  "fx": {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "source": "https://open.er-api.com",
   "rates": {
-   "SGD": 1.289081,
-   "CNY": 6.681345
+   "SGD": 1.291199,
+   "CNY": 6.679299
   }
  },
  "models": {
@@ -190,7 +190,7 @@
      "computer",
      "pdf"
     ],
-    "deprecation": null
+    "deprecation": "2027-01-22"
    }
   },
   "anthropic/claude-opus-4-6": {

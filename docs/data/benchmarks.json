@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-21T12:00:30.823Z",
+ "asOf": "2026-11-24T12:00:28.949Z",
  "citation": "Source: Artificial Analysis (artificialanalysis.ai) via OpenRouter (openrouter.ai/rankings).",
  "sourceUrl": "https://artificialanalysis.ai",
  "models": {
@@ -364,7 +364,7 @@
    }
   },
   "glm-5-3-flash": {
-   "name": "GLM-5.3-Flash",
+   "name": "GLM-5.3-Flash (Max)",
    "slug": "z-ai/glm-5.3-flash-20260826",
    "scores": {
     "intelligence": 27.8,

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T10:30:31.510Z",
+ "updatedAt": "2026-11-24T12:13:32.309Z",
  "layers": [
   {
    "id": "compute",
@@ -55,7 +55,7 @@
   }
  ],
  "usageTop": {
-  "asOf": "2026-11-23T10:30:29.975Z",
+  "asOf": "2026-11-24T12:13:30.955Z",
   "week": "2026-11-16",
   "rows": [
    {
@@ -602,10 +602,6 @@
    "sourceUrl": "https://www.alphavantage.co/",
    "points": [
     {
-     "date": "2024-11-29",
-     "value": 138.25
-    },
-    {
      "date": "2024-12-06",
      "value": 142.44
     },
@@ -1016,6 +1012,10 @@
     {
      "date": "2026-11-20",
      "value": 125.53
+    },
+    {
+     "date": "2026-11-23",
+     "value": 165.05
     }
    ]
   },
@@ -1029,10 +1029,6 @@
    "source": "Alpha Vantage",
    "sourceUrl": "https://www.alphavantage.co/",
    "points": [
-    {
-     "date": "2024-11-29",
-     "value": 184.66
-    },
     {
      "date": "2024-12-06",
      "value": 203.02
@@ -1444,6 +1440,10 @@
     {
      "date": "2026-11-20",
      "value": 318.71
+    },
+    {
+     "date": "2026-11-23",
+     "value": 363.6
     }
    ]
   },
@@ -1457,10 +1457,6 @@
    "source": "Alpha Vantage",
    "sourceUrl": "https://www.alphavantage.co/",
    "points": [
-    {
-     "date": "2024-11-29",
-     "value": 162.08
-    },
     {
      "date": "2024-12-06",
      "value": 179.53
@@ -1872,6 +1868,10 @@
     {
      "date": "2026-11-20",
      "value": 304.41
+    },
+    {
+     "date": "2026-11-23",
+     "value": 313.55
     }
    ]
   },
@@ -1885,10 +1885,6 @@
    "source": "Alpha Vantage",
    "sourceUrl": "https://www.alphavantage.co/",
    "points": [
-    {
-     "date": "2024-11-29",
-     "value": 242.13
-    },
     {
      "date": "2024-12-06",
      "value": 248.61
@@ -2300,6 +2296,10 @@
     {
      "date": "2026-11-20",
      "value": 400.06
+    },
+    {
+     "date": "2026-11-23",
+     "value": 460.18
     }
    ]
   },
@@ -2313,10 +2313,6 @@
    "source": "OpenRouter（CC BY 4.0）",
    "sourceUrl": "https://openrouter.ai/rankings",
    "points": [
-    {
-     "date": "2025-11-24",
-     "value": 7184885909341
-    },
     {
      "date": "2025-12-01",
      "value": 6183689082546
@@ -2519,7 +2515,7 @@
     },
     {
      "date": "2026-11-16",
-     "value": 314875939951754
+     "value": 314875955922339
     }
    ]
   },
@@ -2534,10 +2530,6 @@
    "source": "OpenRouter（CC BY 4.0）",
    "sourceUrl": "https://openrouter.ai/rankings",
    "points": [
-    {
-     "date": "2025-11-24",
-     "value": 4513447893881
-    },
     {
      "date": "2025-12-01",
      "value": 3445426229785
@@ -2756,10 +2748,6 @@
    "sourceUrl": "https://openrouter.ai/rankings",
    "points": [
     {
-     "date": "2025-11-24",
-     "value": 826288335957
-    },
-    {
      "date": "2025-12-01",
      "value": 743257882143
     },
@@ -2976,10 +2964,6 @@
    "source": "OpenRouter（CC BY 4.0）",
    "sourceUrl": "https://openrouter.ai/rankings",
    "points": [
-    {
-     "date": "2025-11-24",
-     "value": 236673527103
-    },
     {
      "date": "2025-12-01",
      "value": 356701666878
@@ -3198,10 +3182,6 @@
    "sourceUrl": "https://openrouter.ai/rankings",
    "points": [
     {
-     "date": "2025-11-24",
-     "value": 26652087793
-    },
-    {
      "date": "2025-12-01",
      "value": 49862231583
     },
@@ -3418,10 +3398,6 @@
    "source": "OpenRouter（CC BY 4.0）",
    "sourceUrl": "https://openrouter.ai/rankings",
    "points": [
-    {
-     "date": "2025-11-24",
-     "value": 1078225574542
-    },
     {
      "date": "2025-12-01",
      "value": 1016302510513
@@ -5134,6 +5110,10 @@
     {
      "date": "2026-11-23",
      "value": 2.15
+    },
+    {
+     "date": "2026-11-24",
+     "value": 2.15
     }
    ]
   },
@@ -6642,6 +6622,10 @@
     },
     {
      "date": "2026-11-23",
+     "value": 1
+    },
+    {
+     "date": "2026-11-24",
      "value": 1
     }
    ]
@@ -8164,6 +8148,10 @@
     {
      "date": "2026-11-23",
      "value": 0.9437
+    },
+    {
+     "date": "2026-11-24",
+     "value": 0.9437
     }
    ]
   },
@@ -9672,6 +9660,10 @@
     },
     {
      "date": "2026-11-23",
+     "value": 1.25
+    },
+    {
+     "date": "2026-11-24",
      "value": 1.25
     }
    ]
