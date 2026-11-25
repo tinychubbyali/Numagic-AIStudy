@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T12:13:23.017Z",
+ "updatedAt": "2026-11-25T11:00:24.461Z",
  "source": "https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json",
  "notes": {
   "music": {
@@ -2949,9 +2949,37 @@
      }
     }
    ]
+  },
+  "elevenlabs/scribe_v2_realtime": {
+   "modality": "stt",
+   "vendor": "elevenlabs",
+   "model": "scribe_v2_realtime",
+   "native": {
+    "perSecond": 0.000061111
+   },
+   "std": 0.22,
+   "estimate": false,
+   "tier": "flagship",
+   "source": "https://elevenlabs.io/pricing/api",
+   "firstSeen": "2026-11-25",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "std": 0.22,
+     "native": {
+      "perSecond": 0.000061111
+     }
+    }
+   ]
   }
  },
  "changes": [
+  {
+   "date": "2026-11-25",
+   "id": "elevenlabs/scribe_v2_realtime",
+   "type": "added",
+   "after": 0.22
+  },
   {
    "date": "2026-11-24",
    "id": "minimax/MiniMax-H3-Image",

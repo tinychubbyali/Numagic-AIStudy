@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-24T12:13:07.970Z",
+ "updatedAt": "2026-11-25T11:00:07.174Z",
  "source": "https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json",
  "fx": {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "source": "https://open.er-api.com",
   "rates": {
-   "SGD": 1.291199,
-   "CNY": 6.679299
+   "SGD": 1.28993,
+   "CNY": 6.678179
   }
  },
  "models": {
@@ -2726,7 +2726,7 @@
     }
    ],
    "specs": {
-    "context": 400000,
+    "context": 272000,
     "maxOutput": 128000,
     "caps": [
      "reasoning",
@@ -10272,6 +10272,62 @@
      "input": 1.5,
      "output": 9,
      "cacheRead": null
+    }
+   ]
+  },
+  "xai/grok-4.7-latest": {
+   "provider": "xai",
+   "model": "grok-4.7-latest",
+   "input": 2,
+   "output": 6,
+   "cacheRead": 0.5,
+   "source": "https://api.x.ai/v1/language-models",
+   "specs": {
+    "context": 500000,
+    "maxOutput": 500000,
+    "caps": [
+     "reasoning",
+     "vision",
+     "tools",
+     "web"
+    ],
+    "deprecation": null
+   },
+   "firstSeen": "2026-11-25",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "input": 2,
+     "output": 6,
+     "cacheRead": 0.5
+    }
+   ]
+  },
+  "xai/grok-4.6-latest": {
+   "provider": "xai",
+   "model": "grok-4.6-latest",
+   "input": 2,
+   "output": 6,
+   "cacheRead": 0.5,
+   "source": "https://api.x.ai/v1/language-models",
+   "specs": {
+    "context": 500000,
+    "maxOutput": 500000,
+    "caps": [
+     "reasoning",
+     "vision",
+     "tools",
+     "web"
+    ],
+    "deprecation": null
+   },
+   "firstSeen": "2026-11-25",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "input": 2,
+     "output": 6,
+     "cacheRead": 0.5
     }
    ]
   }
