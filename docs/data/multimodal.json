@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T11:00:24.461Z",
+ "updatedAt": "2026-11-26T10:38:23.625Z",
  "source": "https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json",
  "notes": {
   "music": {
@@ -2971,9 +2971,297 @@
      }
     }
    ]
+  },
+  "bytedance/doubao-seedream-4-0": {
+   "modality": "image",
+   "vendor": "bytedance",
+   "model": "doubao-seedream-4-0",
+   "native": {
+    "perImage": 0.028571429
+   },
+   "std": 0.028571,
+   "estimate": false,
+   "tier": "flagship",
+   "source": "https://www.volcengine.com/docs/82379/1544106",
+   "firstSeen": "2026-11-26",
+   "history": [
+    {
+     "date": "2026-11-26",
+     "std": 0.028571,
+     "native": {
+      "perImage": 0.028571429
+     }
+    }
+   ]
+  },
+  "bytedance/doubao-seedream-5-0-flash": {
+   "modality": "image",
+   "vendor": "bytedance",
+   "model": "doubao-seedream-5-0-flash",
+   "native": {
+    "perImage": 0.017142857
+   },
+   "std": 0.017143,
+   "estimate": false,
+   "tier": "fast",
+   "source": "https://www.volcengine.com/docs/82379/1544106",
+   "firstSeen": "2026-11-26",
+   "history": [
+    {
+     "date": "2026-11-26",
+     "std": 0.017143,
+     "native": {
+      "perImage": 0.017142857
+     }
+    }
+   ]
+  },
+  "bytedance/doubao-seedream-5-0-pro": {
+   "modality": "image",
+   "vendor": "bytedance",
+   "model": "doubao-seedream-5-0-pro",
+   "native": {
+    "perImage": 0.042857143,
+    "perImage2K": 0.085714286
+   },
+   "std": 0.042857,
+   "estimate": false,
+   "tier": "flagship",
+   "source": "https://www.volcengine.com/docs/82379/1544106",
+   "firstSeen": "2026-11-26",
+   "history": [
+    {
+     "date": "2026-11-26",
+     "std": 0.042857,
+     "native": {
+      "perImage": 0.042857143,
+      "perImage2K": 0.085714286
+     }
+    }
+   ]
+  },
+  "bytedance/dola-seedream-5-5": {
+   "modality": "image",
+   "vendor": "bytedance",
+   "model": "dola-seedream-5-5",
+   "native": {
+    "perImage": 0.02,
+    "perImage2K": 0.035
+   },
+   "std": 0.02,
+   "estimate": false,
+   "tier": "flagship",
+   "source": "https://docs.byteplus.com/en/docs/ModelArk/1544106",
+   "firstSeen": "2026-11-26",
+   "history": [
+    {
+     "date": "2026-11-26",
+     "std": 0.02,
+     "native": {
+      "perImage": 0.02,
+      "perImage2K": 0.035
+     }
+    }
+   ]
+  },
+  "bytedance/dola-seedream-5-0-pro": {
+   "modality": "image",
+   "vendor": "bytedance",
+   "model": "dola-seedream-5-0-pro",
+   "native": {
+    "perImage": 0.045,
+    "perImage2K": 0.09
+   },
+   "std": 0.045,
+   "estimate": false,
+   "tier": "flagship",
+   "source": "https://docs.byteplus.com/en/docs/ModelArk/1544106",
+   "firstSeen": "2026-11-26",
+   "history": [
+    {
+     "date": "2026-11-26",
+     "std": 0.045,
+     "native": {
+      "perImage": 0.045,
+      "perImage2K": 0.09
+     }
+    }
+   ]
+  },
+  "bytedance/dola-seedream-5-0-flash": {
+   "modality": "image",
+   "vendor": "bytedance",
+   "model": "dola-seedream-5-0-flash",
+   "native": {
+    "perImage": 0.018
+   },
+   "std": 0.018,
+   "estimate": false,
+   "tier": "fast",
+   "source": "https://docs.byteplus.com/en/docs/ModelArk/1544106",
+   "firstSeen": "2026-11-26",
+   "history": [
+    {
+     "date": "2026-11-26",
+     "std": 0.018,
+     "native": {
+      "perImage": 0.018
+     }
+    }
+   ]
+  },
+  "bytedance/seedream-5-0-lite": {
+   "modality": "image",
+   "vendor": "bytedance",
+   "model": "seedream-5-0-lite",
+   "native": {
+    "perImage": 0.035
+   },
+   "std": 0.035,
+   "estimate": false,
+   "tier": "light",
+   "source": "https://docs.byteplus.com/en/docs/ModelArk/1544106",
+   "firstSeen": "2026-11-26",
+   "history": [
+    {
+     "date": "2026-11-26",
+     "std": 0.035,
+     "native": {
+      "perImage": 0.035
+     }
+    }
+   ]
+  },
+  "bytedance/seedream-4-5": {
+   "modality": "image",
+   "vendor": "bytedance",
+   "model": "seedream-4-5",
+   "native": {
+    "perImage": 0.04
+   },
+   "std": 0.04,
+   "estimate": false,
+   "tier": "flagship",
+   "source": "https://docs.byteplus.com/en/docs/ModelArk/1544106",
+   "firstSeen": "2026-11-26",
+   "history": [
+    {
+     "date": "2026-11-26",
+     "std": 0.04,
+     "native": {
+      "perImage": 0.04
+     }
+    }
+   ]
+  },
+  "bytedance/seedream-4-0": {
+   "modality": "image",
+   "vendor": "bytedance",
+   "model": "seedream-4-0",
+   "native": {
+    "perImage": 0.03
+   },
+   "std": 0.03,
+   "estimate": false,
+   "tier": "flagship",
+   "source": "https://docs.byteplus.com/en/docs/ModelArk/1544106",
+   "firstSeen": "2026-11-26",
+   "history": [
+    {
+     "date": "2026-11-26",
+     "std": 0.03,
+     "native": {
+      "perImage": 0.03
+     }
+    }
+   ]
+  },
+  "bytedance/doubao-seedream-5-5": {
+   "modality": "image",
+   "vendor": "bytedance",
+   "model": "doubao-seedream-5-5",
+   "native": {
+    "perImage": 0.018571429,
+    "perImage2K": 0.032857143
+   },
+   "std": 0.018571,
+   "estimate": false,
+   "tier": "flagship",
+   "source": "https://www.volcengine.com/docs/82379/1544106",
+   "firstSeen": "2026-11-26",
+   "history": [
+    {
+     "date": "2026-11-26",
+     "std": 0.018571,
+     "native": {
+      "perImage": 0.018571429,
+      "perImage2K": 0.032857143
+     }
+    }
+   ]
   }
  },
  "changes": [
+  {
+   "date": "2026-11-26",
+   "id": "bytedance/doubao-seedream-4-0",
+   "type": "added",
+   "after": 0.028571
+  },
+  {
+   "date": "2026-11-26",
+   "id": "bytedance/doubao-seedream-5-0-flash",
+   "type": "added",
+   "after": 0.017143
+  },
+  {
+   "date": "2026-11-26",
+   "id": "bytedance/doubao-seedream-5-0-pro",
+   "type": "added",
+   "after": 0.042857
+  },
+  {
+   "date": "2026-11-26",
+   "id": "bytedance/dola-seedream-5-5",
+   "type": "added",
+   "after": 0.02
+  },
+  {
+   "date": "2026-11-26",
+   "id": "bytedance/dola-seedream-5-0-pro",
+   "type": "added",
+   "after": 0.045
+  },
+  {
+   "date": "2026-11-26",
+   "id": "bytedance/dola-seedream-5-0-flash",
+   "type": "added",
+   "after": 0.018
+  },
+  {
+   "date": "2026-11-26",
+   "id": "bytedance/seedream-5-0-lite",
+   "type": "added",
+   "after": 0.035
+  },
+  {
+   "date": "2026-11-26",
+   "id": "bytedance/seedream-4-5",
+   "type": "added",
+   "after": 0.04
+  },
+  {
+   "date": "2026-11-26",
+   "id": "bytedance/seedream-4-0",
+   "type": "added",
+   "after": 0.03
+  },
+  {
+   "date": "2026-11-26",
+   "id": "bytedance/doubao-seedream-5-5",
+   "type": "added",
+   "after": 0.018571
+  },
   {
    "date": "2026-11-25",
    "id": "elevenlabs/scribe_v2_realtime",
