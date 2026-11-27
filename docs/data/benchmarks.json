@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-26T00:00:33.191Z",
+ "asOf": "2026-11-27T00:00:27.613Z",
  "citation": "Source: Artificial Analysis (artificialanalysis.ai) via OpenRouter (openrouter.ai/rankings).",
  "sourceUrl": "https://artificialanalysis.ai",
  "models": {
@@ -623,6 +623,16 @@
     "legal": 11.6
    }
   },
+  "gemma-4-26b-a4b-it": {
+   "name": "Gemma 4 26B A4B (Reasoning)",
+   "slug": "google/gemma-4-26b-a4b-it-20260403",
+   "scores": {
+    "intelligence": 4,
+    "engineering": 11.1,
+    "finance_and_accounting": 7.1,
+    "legal": 6.9
+   }
+  },
   "gpt-oss-120b": {
    "name": "gpt-oss-120b (High)",
    "slug": "openai/gpt-oss-120b",
@@ -665,14 +675,6 @@
    "scores": {
     "finance_and_accounting": 14.8,
     "legal": 14.6
-   }
-  },
-  "gemma-4-26b-a4b-it": {
-   "name": "Gemma 4 26B A4B (Reasoning)",
-   "slug": "google/gemma-4-26b-a4b-it-20260403",
-   "scores": {
-    "finance_and_accounting": 7.1,
-    "legal": 6.9
    }
   }
  }

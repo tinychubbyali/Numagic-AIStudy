@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-26T10:38:07.862Z",
+ "updatedAt": "2026-11-27T10:40:22.694Z",
  "source": "https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json",
  "fx": {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "source": "https://open.er-api.com",
   "rates": {
-   "SGD": 1.28993,
-   "CNY": 6.678179
+   "SGD": 1.290189,
+   "CNY": 6.674963
   }
  },
  "models": {
