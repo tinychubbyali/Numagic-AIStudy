@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-27T10:40:22.694Z",
+ "updatedAt": "2026-11-28T09:59:16.566Z",
  "source": "https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json",
  "fx": {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "source": "https://open.er-api.com",
   "rates": {
-   "SGD": 1.290189,
-   "CNY": 6.674963
+   "SGD": 1.290402,
+   "CNY": 6.670928
   }
  },
  "models": {
@@ -6436,7 +6436,7 @@
      "vision",
      "tools"
     ],
-    "deprecation": null
+    "deprecation": "2026-05-15"
    }
   },
   "xai/grok-code-fast-1": {

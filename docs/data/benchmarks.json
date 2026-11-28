@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-27T00:00:27.613Z",
+ "asOf": "2026-11-27T12:00:26.301Z",
  "citation": "Source: Artificial Analysis (artificialanalysis.ai) via OpenRouter (openrouter.ai/rankings).",
  "sourceUrl": "https://artificialanalysis.ai",
  "models": {
@@ -423,16 +423,6 @@
     "legal": 27.5
    }
   },
-  "qwen3-8-27b": {
-   "name": "Qwen3.8 27B (Xhigh)",
-   "slug": "qwen/qwen3.8-27b-20260814",
-   "scores": {
-    "intelligence": 20.1,
-    "engineering": 28.1,
-    "finance_and_accounting": 35.5,
-    "legal": 33.2
-   }
-  },
   "inkling-2-mini": {
    "name": "Inkling 2 Mini",
    "slug": "thinkingmachines/inkling-2-mini-20261120",
@@ -441,6 +431,16 @@
     "engineering": 27.6,
     "finance_and_accounting": 35.3,
     "legal": 31
+   }
+  },
+  "qwen3-8-27b": {
+   "name": "Qwen3.8 27B (Xhigh)",
+   "slug": "qwen/qwen3.8-27b-20260814",
+   "scores": {
+    "intelligence": 20.1,
+    "engineering": 28.1,
+    "finance_and_accounting": 35.5,
+    "legal": 33.2
    }
   },
   "minimax-m3": {
